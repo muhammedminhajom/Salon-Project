@@ -1,0 +1,1 @@
+ALTER TYPE "LedgerAccount" ADD VALUE 'TAX_PAYABLE';

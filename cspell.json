@@ -1,0 +1,9 @@
+{
+  "version": "0.2",
+  "overrides": [
+    {
+      "filename": "prisma/schema.prisma",
+      "words": ["cuid", "Kolkata", "paise", "timestamptz"]
+    }
+  ]
+}

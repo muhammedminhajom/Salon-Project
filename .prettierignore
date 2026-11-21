@@ -1,0 +1,11 @@
+# npm maintains the lockfile.
+package-lock.json
+# Build outputs, local databases, and generated hook files.
+.next/
+.data/
+coverage/
+.husky/_/
+next-env.d.ts
+*.tsbuildinfo
+.env*
+!.env.example
